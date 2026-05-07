@@ -135,5 +135,10 @@ Esto permitió mantener tiempos de ejecución razonables sin perder representati
 ```bash
 📁 MachineLearning-TS3
 │
+├── 📁 Dataset
+│   ├── train.csv
+│   ├── features.csv
+│   └── stores.csv
+│
 ├── Trabajo_Sumativo_3_Machine_Learning.ipynb
 └── README.md
